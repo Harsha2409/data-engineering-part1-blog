@@ -20,3 +20,4 @@
 #### Spotflix: A fictional music streaming compnany
 -----------------
 ##### Data Workflow:
+![Alt text](/workflow.png)
