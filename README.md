@@ -20,4 +20,4 @@
 #### Spotflix: A fictional music streaming compnany
 -----------------
 ##### Data Workflow:
-![Alt text](https://github.com/Harsha2409/data-engineering-part1-blog/workflow.PNG?raw=true)
+![](https://github.com/Harsha2409/data-engineering-part1-blog/workflow.PNG?raw=true)
