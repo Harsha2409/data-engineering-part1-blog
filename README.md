@@ -4,7 +4,7 @@
 2. Figure out if you're interested to learn more about Data Engineering
 ------------------------
 ### Chapter 1: What is Data Engineering
-1. [Data Engineering](#Data-engineering) and Big Data
+1. [Data Engineering](#Data Engineering) and Big Data
 2. Data Engineers vs. Data Scientists
 3. Data Pipelines
 ### Chapter 2: How Data Storage Works
@@ -22,7 +22,7 @@
 ##### Data Workflow:
 ![](https://github.com/Harsha2409/data-engineering-part1-blog/blob/main/workflow.PNG)
 --------------------
-#### Data-engineering
+#### Data Engineering
 
 **Data Engineers** are responsible for the first step of the Data Workflow process - ingesting collected data and storing it. They have a great responsibility as they lay the ground work for data analysts, data scientists and machine learning engineers.
 
@@ -31,3 +31,6 @@ If the data is scattered around, corrupted, and difficult to access, there's not
 They ingest data from different sources, optimize the databases for analysis, and manage data corruption. Data engineers develop, construct, test, and maintain architectures such as databases and large-scale processing systems to process and handle massive amounts of data.
 
 If you're not sure what this all means, that's okay! The article will unpack all this jargon and explain the what, why, and how.
+
+#### Big Data
+Big data can be defined as data so large you have to think about how to deal with its size, because it's difficult to process using traditional data management methods.
