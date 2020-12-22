@@ -22,7 +22,7 @@
 ##### Data Workflow:
 ![](https://github.com/Harsha2409/data-engineering-part1-blog/blob/main/workflow.PNG)
 --------------------
-#### Data Engineering
+### Data Engineering
 
 **Data Engineers** are responsible for the first step of the Data Workflow process - ingesting collected data and storing it. They have a great responsibility as they lay the ground work for data analysts, data scientists and machine learning engineers.
 
@@ -32,5 +32,5 @@ They ingest data from different sources, optimize the databases for analysis, an
 
 If you're not sure what this all means, that's okay! The article will unpack all this jargon and explain the what, why, and how.
 
-#### Big Data
+### Big Data
 Big data can be defined as data so large you have to think about how to deal with its size, because it's difficult to process using traditional data management methods.
