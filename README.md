@@ -21,8 +21,8 @@
 -----------------
 ##### Data Workflow:
 ![](https://github.com/Harsha2409/data-engineering-part1-blog/blob/main/workflow.PNG)
-
-####Data-engineering
+--------------------
+#### Data-engineering
 
 **Data Engineers** are responsible for the first step of the Data Workflow process - ingesting collected data and storing it. They have a great responsibility as they lay the ground work for data analysts, data scientists and machine learning engineers.
 
