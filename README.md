@@ -125,6 +125,30 @@ Now, let's think of this in terms of oil.
 
 ![](https://github.com/Harsha2409/data-engineering-part1-blog/blob/main/images/pipelines.PNG)
 
+### Data pipeline ensure an efficient flow of the data.
+Automate:
+1. Extracting
+2. Transforming
+3. Combining
+4. Validating
+5.. Loading
+
+Reduce;
+1. Human intervention
+2. Errors
+3. Tike it takes for the data to flow
+
+#### Another jargon you will hear is 'ETL'
+
+ETL is a popular framework for designing data pipelines. It breaks up the flow of data into three sequential steps:
+1. **E - Extract** the data
+2. **T - Transform** the extracted data
+3. **L - Load** the transformed data to newdatabase
+
+In ETL, Data is processed then stored.
+
+### Data pipelines basically move data from one system to another. May or may not follow ETL i.e. Data may or may not be transformed before loading, it can be directly data loaded into applications like Visualization tools or Salesforce.
+
 -------------------------------
 
 ### [Go to Part 1.2 : How Data Storage Works](http://github.com/Harsha2409/data-engineering-part1.2-blog/blob/main/README.md)
