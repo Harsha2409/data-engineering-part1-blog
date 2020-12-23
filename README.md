@@ -127,3 +127,6 @@ Now, let's think of this in terms of oil.
       * This can be used by *Data Scientists* to develop Content-based/Similarity Recommendation Engine.
 
 ![](https://github.com/Harsha2409/data-engineering-part1-blog/blob/main/images/pipelines.PNG)
+
+-------------------------------
+
