@@ -5,7 +5,7 @@
 ------------------------
 ### Chapter 1: What is Data Engineering
 1. [Data Engineering](#Data-Engineering) and [Big Data](#Big-Data)
-2. [Data Engineers vs. Data Scientists]
+2. [Data Engineers vs. Data Scientists](#Data-Engineers-vs.-Data-Scientists)
 3. Data Pipelines
 ### Chapter 2: How Data Storage Works
 1. Structure vs. Unstructured Data
