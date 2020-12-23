@@ -120,4 +120,4 @@ Now, let's think of this in terms of oil.
 
 1. What can be saved directly? hmm... album photos! - all images in another database. No processing Required. **One more pipeline.**
 2. Do we need to segregate anything? Employees database in different [tables](#) - by department (sales, engineering, support etc) - **Three more pipelines**
-  * We can also split these department tables by office - US, Belgium, UK etc **Three more pipelines**
+    * We can also split these department tables by office - US, Belgium, UK etc **Three more pipelines**
