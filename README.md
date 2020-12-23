@@ -94,5 +94,5 @@ You might have heard **'Data is the new Oil'** as first coined by the Economists
 
 So, we have many pipelines tying the entire process together.
 
-*Ava* follows a similar procedure to manage data for *Spotflix*. She creates and maintains **pipelines** to automate flow from one station to the next so that *Data Scientists* can use up-to-date, accurate and relevant data. Obviously, this isn't an easy task.
+#### *Ava* follows a similar procedure to manage data for *Spotflix*. She creates and maintains **pipelines** to automate flow from one station to the next so that *Data Scientists* can use up-to-date, accurate and relevant data. Obviously, this isn't an easy task.
 
