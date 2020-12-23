@@ -60,3 +60,6 @@ Now that you know how data flows through an organization, let's quickly prevent 
 
 We already know the responsibilities of Data Engineers - first step of [Data Workflow](#Data-Workflow)
 
+**Data Scientists** interevene on the rest of the worflow. They prepare the data according to their analysis' needs, explore it and build insightful visualizations. They run experiments and/or build predictive models.
+
+**Data Engineers** lay the ground work that makes Data Science activity possible. Let's see how.
