@@ -127,4 +127,4 @@ Now, let's think of this in terms of oil.
 
 -------------------------------
 
-# [Part 1.2 : How Data Storage Works](#https://github.com/Harsha2409/data-engineering-part1.2-blog/blob/main/README.md)
+[**Go to Part 1.2 : How Data Storage Works**](#https://github.com/Harsha2409/data-engineering-part1.2-blog/blob/main/README.md)
