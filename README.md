@@ -5,7 +5,7 @@
 ------------------------
 ### Chapter 1: What is Data Engineering
 1. [Data Engineering](#Data-Engineering) and [Big Data](#Big-Data)
-2. Data Engineers vs. Data Scientists
+2. [Data Engineers vs. Data Scientists]
 3. Data Pipelines
 ### Chapter 2: How Data Storage Works
 1. Structure vs. Unstructured Data
@@ -50,7 +50,13 @@ Big data is commonly characterized by five Vs:
 4. Veracity (how trustworthy the sources are)
 5. Value (how actionable the data is).
 
-Data engineers need to take all of this into consideration.
+####Data engineers need to take all of this into consideration.
 
 ----------------------
+
+### Data Engineers vs. Data Scientists
+
+Now that you know how data flows through an organization, let's quickly prevent the confusion and assumptions that comes with the *Data Scientists* and *Data Engineers*.
+
+We already know the responsibilities of Data Engineers - first step of [Data Workflow](#Data-Workflow)
 
