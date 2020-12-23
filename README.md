@@ -3,7 +3,7 @@
 1. Being able to exchange with Data Engineers
 2. Figure out if you're interested to learn more about Data Engineering
 ------------------------
-### Chapter 1: What is Data Engineering
+### Chapter 1: [What is Data Engineering](#Chapter-1)
 1. [Data Engineering](#Data-Engineering) and [Big Data](#Big-Data)
 2. [Data Engineers vs. Data Scientists](#Data-Engineers-vs-Data-Scientists)
 3. Data Pipelines
@@ -22,6 +22,8 @@
 A fictional music streaming compnany
 
 -----------------
+#Chapter 1
+----------------
 ### Data Workflow:
 ![](https://github.com/Harsha2409/data-engineering-part1-blog/blob/main/workflow.PNG)
 --------------------
