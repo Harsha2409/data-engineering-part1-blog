@@ -51,5 +51,6 @@ Big data is commonly characterized by five Vs:
 5. Value (how actionable the data is).
 
 Data engineers need to take all of this into consideration.
+
 ----------------------
 
