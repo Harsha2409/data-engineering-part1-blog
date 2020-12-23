@@ -27,7 +27,7 @@ A fictional music streaming compnany
 
 ----------------
 ## Data Workflow:
-![](https://github.com/Harsha2409/data-engineering-part1-blog/blob/main/workflow.PNG)
+![](https://github.com/Harsha2409/data-engineering-part1-blog/blob/main/images/workflow.PNG)
 --------------------
 # 1.1 Data Engineering
 
@@ -42,7 +42,7 @@ If you're not sure what this all means, that's okay! The article will unpack all
 # Big Data
 Big data can be defined as data so large you have to think about how to deal with its size, because it's difficult to process using traditional data management methods.
 
-![](https://github.com/Harsha2409/data-engineering-part1-blog/blob/main/big-data-graph.PNG)
+![](https://github.com/Harsha2409/data-engineering-part1-blog/blob/main/images/big-data-graph.PNG)
 
 This graph helps make sense of the growth of big data.In order of volume, big data is mainly composed of:
 1. sensors and devices data
@@ -126,4 +126,4 @@ Now, let's think of this in terms of oil.
       * Then a new clean tracks database will be stored. **One more pipeline**.
       * This can be used by *Data Scientists* to develop Content-based/Similarity Recommendation Engine.
 
-![](https://github.com/Harsha2409/data-engineering-part1-blog/blob/main/pipelines.PNG)
+![](https://github.com/Harsha2409/data-engineering-part1-blog/blob/main/images/pipelines.PNG)
