@@ -17,7 +17,10 @@
 3. Cloud Computing
 4. Parallel Computing
 ----------------------
-#### Spotflix: A fictional music streaming compnany
+#### Spotflix:
+
+A fictional music streaming compnany
+
 -----------------
 ### Data Workflow:
 ![](https://github.com/Harsha2409/data-engineering-part1-blog/blob/main/workflow.PNG)
@@ -64,4 +67,4 @@ We already know the responsibilities of Data Engineers - first step of [Data Wor
 
 **Data Engineers** lay the ground work that makes Data Science activity possible. Let's see how.
 
-Introducing ***Ava***, a Data Engineer at [Spotflix](#Spotflix:-A-fictional-music-streaming-compnany)
+Introducing ***Ava***, a Data Engineer at [Spotflix](#Spotflix:)
