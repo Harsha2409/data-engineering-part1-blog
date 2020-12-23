@@ -17,7 +17,7 @@
 3. Cloud Computing
 4. Parallel Computing
 ----------------------
-#### Spotflix:
+### Spotflix:
 
 A fictional music streaming compnany
 
