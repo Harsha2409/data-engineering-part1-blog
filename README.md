@@ -83,3 +83,16 @@ Introducing ***Ava***, a Data Engineer  and ***Katie***, a Data Scientist at [Sp
 ---------------------
 
 # 1.3 Data Pipelines
+
+You might have heard **'Data is the new Oil'** as first coined by the Economists. Let's follow this idea.
+
+1. We extract Crude Oil from an oil field.
+2. We move the Crude Oil to a distillation unit where we separate the oil into several products (gasoline, naphtha, kerosene, diesel, heavy oil, resideu etc)
+3. Some products are sent directly to their final users. Eg: Some pipes go to Airport to deliver Kerosene.
+4. Some are sent to storage facilities and stored in big tanks before being distributed to Gas stations. Eg: Gasoline.
+5. Some products undergo several chemical transformations to create synthetic polymers. Eg: Naphtha is transformed to a polymer which is used to manufacture CDs. (CDs - yeah, so last century!!)
+
+So, we have many pipelines tying the entire process together.
+
+*Ava* follows a similar procedure to manage data for *Spotflix*. She creates and maintains **pipelines** to automate flow from one station to the next so that *Data Scientists* can use up-to-date, accurate and relevant data. Obviously, this isn't an easy task.
+
