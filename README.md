@@ -4,7 +4,7 @@
 2. Figure out if you're interested to learn more about Data Engineering
 ------------------------
 ### Chapter 1: What is Data Engineering
-1. [Data Engineering](#Data-Engineering) and Big Data
+1. [Data Engineering](#Data-Engineering) and [Big Data](#Big Data)
 2. Data Engineers vs. Data Scientists
 3. Data Pipelines
 ### Chapter 2: How Data Storage Works
@@ -41,3 +41,13 @@ This graph helps make sense of the growth of big data.In order of volume, big da
 1. sensors and devices data
 2. social media data
 3. enterprise data and VoIP data.
+
+##### The five Vs
+Big data is commonly characterized by five Vs:
+1. Volume (the quantity of data points)
+2. Variety (type and nature of the data: text, image, video, audio)
+3. Velocity (how fast the data is generated and processed)
+4. Veracity (how trustworthy the sources are)
+5. Value (how actionable the data is).
+
+Data engineers need to take all of this into consideration.
