@@ -1,5 +1,5 @@
 # Get Started with Data Engineering: Part 1
-### Objectives:
+## Objectives:
 1. Being able to exchange with Data Engineers
 2. Figure out if you're interested to learn more about Data Engineering
 ------------------------
@@ -19,7 +19,7 @@
 ----------------------
 #### Spotflix: A fictional music streaming compnany
 -----------------
-##### Data Workflow:
+### Data Workflow:
 ![](https://github.com/Harsha2409/data-engineering-part1-blog/blob/main/workflow.PNG)
 --------------------
 ### Data Engineering
@@ -42,7 +42,7 @@ This graph helps make sense of the growth of big data.In order of volume, big da
 2. social media data
 3. enterprise data and VoIP data.
 
-##### The five Vs
+#### The five Vs
 Big data is commonly characterized by five Vs:
 1. Volume (the quantity of data points)
 2. Variety (type and nature of the data: text, image, video, audio)
@@ -51,3 +51,5 @@ Big data is commonly characterized by five Vs:
 5. Value (how actionable the data is).
 
 Data engineers need to take all of this into consideration.
+----------------------
+
