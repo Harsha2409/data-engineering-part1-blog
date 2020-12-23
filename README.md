@@ -67,4 +67,4 @@ We already know the responsibilities of Data Engineers - first step of [Data Wor
 
 **Data Engineers** lay the ground work that makes Data Science activity possible. Let's see how.
 
-Introducing ***Ava***, a Data Engineer at [Spotflix](#Spotflix:)
+Introducing ***Ava***, a Data Engineer at [Spotflix](#Spotflix)
