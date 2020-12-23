@@ -26,10 +26,10 @@ A fictional music streaming compnany
 # Chapter 1
 
 ----------------
-### Data Workflow:
+## Data Workflow:
 ![](https://github.com/Harsha2409/data-engineering-part1-blog/blob/main/workflow.PNG)
 --------------------
-### 1.1 Data Engineering
+# 1.1 Data Engineering
 
 **Data Engineers** are responsible for the first step of the Data Workflow process - ingesting collected data and storing it. They have a great responsibility as they lay the ground work for data analysts, data scientists and machine learning engineers.
 
@@ -39,7 +39,7 @@ They ingest data from different sources, optimize the databases for analysis, an
 
 If you're not sure what this all means, that's okay! The article will unpack all this jargon and explain the what, why, and how.
 
-### Big Data
+# Big Data
 Big data can be defined as data so large you have to think about how to deal with its size, because it's difficult to process using traditional data management methods.
 
 ![](https://github.com/Harsha2409/data-engineering-part1-blog/blob/main/big-data-graph.PNG)
@@ -49,7 +49,7 @@ This graph helps make sense of the growth of big data.In order of volume, big da
 2. social media data
 3. enterprise data and VoIP data.
 
-#### The five Vs
+## The five Vs
 Big data is commonly characterized by five Vs:
 1. Volume (the quantity of data points)
 2. Variety (type and nature of the data: text, image, video, audio)
@@ -57,11 +57,11 @@ Big data is commonly characterized by five Vs:
 4. Veracity (how trustworthy the sources are)
 5. Value (how actionable the data is).
 
-####Data engineers need to take all of this into consideration.
+## Data engineers need to take all of this into consideration.
 
 ----------------------
 
-### 1.2 Data Engineers vs. Data Scientists
+# 1.2 Data Engineers vs. Data Scientists
 
 Now that you know how data flows through an organization, let's quickly prevent the confusion and assumptions that comes with the *Data Scientists* and *Data Engineers*.
 
@@ -82,4 +82,4 @@ Introducing ***Ava***, a Data Engineer  and ***Katie***, a Data Scientist at [Sp
 
 ---------------------
 
-### 1.3 Data Pipelines
+# 1.3 Data Pipelines
