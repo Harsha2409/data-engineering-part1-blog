@@ -73,7 +73,7 @@ Introducing ***Ava***, a Data Engineer  and ***Katie***, a Data Scientist at [Sp
 |:---:|:---:|
 |Ingest and Store Data|Exploit Data|
 |Set up Databases|Access Databases|
-|Build Data Pipelines||Use Pipeline outputs|
-|Strong Software Skills||Strong Analytical Skills|
+|Build Data Pipelines|Use Pipeline outputs|
+|Strong Software Skills|Strong Analytical Skills|
 
 
