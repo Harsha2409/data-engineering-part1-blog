@@ -63,3 +63,5 @@ We already know the responsibilities of Data Engineers - first step of [Data Wor
 **Data Scientists** interevene on the rest of the worflow. They prepare the data according to their analysis' needs, explore it and build insightful visualizations. They run experiments and/or build predictive models.
 
 **Data Engineers** lay the ground work that makes Data Science activity possible. Let's see how.
+
+Introducing ***Ava***, a Data Engineer at [Spotflix](#Spotflix:-A-fictional-music-streaming-compnany)
