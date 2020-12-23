@@ -96,3 +96,25 @@ So, we have many pipelines tying the entire process together.
 
 #### *Ava* follows a similar procedure to manage data for *Spotflix*. She creates and maintains **pipelines** to automate flow from one station to the next so that *Data Scientists* can use up-to-date, accurate and relevant data. Obviously, this isn't an easy task.
 
+At *Spotflix*, we have multiple sources of data.
+1. Users' actions and listening history from the mobile application, desktop application and the website.
+2. Internal website used by HR at *Spotflix* for Payroll, hiring etc.
+
+All this data is ingested in a [data lake.](#) We have our first three pipelines.
+1. Mobile app -> Data lake
+2. Desktop app -> Data lake
+3. Website -> Data lake
+
+Now, we will organize it into different [databases.](#)
+1. Artists: Name, Number_of_followers
+2. Albums: Label, Producer, Year_of_Release
+3. Tracks: Name, Length, Featured_artists, number_of_listens
+4. Playlists: Name, songs, date_of_creation
+5. Customers: Name, account_open_date, subscription_tier (free, premium (monthly, yearly))
+6. Employees: Name, Department, Salary, manager
+7. many many more..!
+
+So, we have atleast six new pipelines now - from data lake to each database.
+
+
+
