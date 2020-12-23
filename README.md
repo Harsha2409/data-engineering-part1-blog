@@ -100,7 +100,7 @@ At *Spotflix*, we have multiple sources of data.
 1. Users' actions and listening history from the mobile application, desktop application and the website.
 2. Internal website used by HR at *Spotflix* for Payroll, hiring etc.
 
-All this data is ingested in a [data lake.](#) We have our first three pipelines.
+All this data is ingested in a [data lake.](#) We have our first **three pipelines.**
 1. Mobile app -> Data lake
 2. Desktop app -> Data lake
 3. Website -> Data lake
@@ -114,7 +114,10 @@ Now, we will organize it into different [databases.](#)
 6. Employees: Name, Department, Salary, manager
 7. many many more..!
 
-So, we have atleast six new pipelines now - from data lake to each database.
+So, we have atleast **six new pipelines** now - from data lake to each database.
 
+Now, let's think of this in terms of oil.
 
-
+1. What can be saved directly? hmm... album photos! - all images in another database. No processing Required. **One more pipeline.**
+2. Do we need to segregate anything? Employees database in different [tables](#) - by department (sales, engineering, support etc) - **Three more pipelines**
+a. We can also split these department tables by office - US etc **One more pipeline**
